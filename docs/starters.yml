@@ -2863,3 +2863,19 @@
     - lightweight - includes only internationalization code
     - LocalizedLink - built-in link component handling route generation
     - LanguageSwitcher - built-in language switcher component
+- url: https://yellowcake.netlify.com/
+  repo: https://github.com/thriveweb/yellowcake
+  description: A starter project for creating lightning-fast websites with Gatsby v2 and Netlify-CMS v2 + Uploadcare intergration.
+  tags:
+    - Netlify CMS
+    - Netlify Identity
+    - Boilerplate
+    - Blog
+    - SEO
+  features:
+    - Uploadcare
+    - Netlify Form
+    - Category list (with navigation)
+    - Featured post
+    - Next and prev post
+    - SEO component
